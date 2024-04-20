@@ -1,7 +1,7 @@
 # The art of the Shade
 
 ## About this list
-The following is a compilation of the best resources I have found in my way to learn how to program the amazing [GLSL](https://en.wikipedia.org/wiki/OpenGL_Shading_Language). If you are planning to take shaders from a broader aproach you might find [this compilation for webgl](https://github.com/sjfricke/awesome-webgl) or [this one for opengl](https://github.com/eug/awesome-opengl) more useful.
+The following is a compilation of the best resources I have found in my way to learn how to program the amazing shaders
 
 ## Contents
 * [Tutorials](#tutorials)
