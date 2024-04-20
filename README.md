@@ -23,12 +23,18 @@ The following is a compilation of the best resources I have found in my way to l
 * [Shaders with lwjgl](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - 6 brief but comprehensive lessons by Matt DesLauriers
 * [TutsPlus Series](https://gamedevelopment.tutsplus.com/categories/shaders) - A series of articles featuring implementations with WebGL and live code examples.
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+* https://shader-learning.com/
+* https://catlikecoding.com/unity/tutorials/
+* https://www.cyanilux.com/tutorials/posts/
+* https://www.alanzucconi.com/
 
 ## Sites
 * [Khronos wiki reference](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) - The official wiki that describes in a very formal way how GLSL works.
 * [Stack.gl](http://stack.gl/) - Site that approaches Shaders from WebGL
 * [Reddit Beautiful Shaders](https://www.reddit.com/r/shaders/) - General discussion and showcase for shaders.
 * [Reddit Two Triangles](https://www.reddit.com/r/twotriangles/) - General discussion and showcase for shaders.
+* https://github.com/mkowalik92/SimplyWater/tree/master/References
+* https://google.github.io/filament/Filament.html
 
 ## Editors
 * [Shadertoy](http://shadertoy.com) - Build and share your best shaders with the world and get inspired.
@@ -55,6 +61,20 @@ The following is a compilation of the best resources I have found in my way to l
 * [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of _Image Processing_ algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
 ## Books
+* Practical Shader Development: Vertex and Fragment Shaders for Game Developers
+* Graphics Shaders: Theory and Practice, Second Edition
+* Unreal Engine 5 Shaders and Effects Cookbook - Second Edition: Over 50 recipes to help you create materials and utilize advanced shading techniques
+* Become a Unity Shaders Guru: Create advanced game visuals using code and graphs in Unity 2022
+* Building Quality Shaders for Unity®: Using Shader Graphs and HLSL Shaders
+* The Unity Shaders Bible: A linear explanation of shaders from beginner to advanced. Improve your game graphics with Unity and become a professional technical artist
+* Unity 2021 Shaders and Effects Cookbook - Fourth Edition: Over 50 recipes to help you transform your game into a visually stunning masterpiece
+* Developing Graphics Frameworks with Python and OpenGL
+* Mathematics for Game Programming and Computer Graphics: Explore the essential mathematics for creating, rendering, and manipulating 3D virtual environments
+* Math for Programmers: 3D Graphics, Machine Learning, and Simulations with Python
+* Geometry for Programmers
+* 3D Math Primer for Graphics and Game Development
+* Essential Mathematics for Games and Interactive Applications
+
 ## Tools
 * [RenderDoc](https://renderdoc.org/builds) - Stand-alone graphics debugger.
 * [Shader Designer](https://www.opengl.org/sdk/tools/ShaderDesigner/) - TyphoonLabs' OpenGL Shader Designer
@@ -65,6 +85,24 @@ The following is a compilation of the best resources I have found in my way to l
 # Videos
 * [Greg Tatum](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - 5 videos explaining how to implement lighting from scratch in WebGL.
 * [Steven Wittens](https://www.youtube.com/watch?v=4NkjLWAkYZ8) - Full Stack Fest 2015: The Pixel Factory (Great visuals to gain insights into what's going on with concepts such as UV's, and Rastering)
+* https://www.youtube.com/@TheArtofCodeIsCool
+* https://www.youtube.com/@InigoQuilez
+* https://www.youtube.com/@javidx9
+* https://www.youtube.com/@pikuma
+* https://www.youtube.com/@TheHappieCat
+* https://www.youtube.com/@WillHessGameDev
+* https://www.youtube.com/@Acerola_t
+* https://www.youtube.com/@BarneyCodes
+* https://www.youtube.com/@TheCodingTrain
+* https://www.youtube.com/@kishimisu
+* https://www.youtube.com/playlist?list=PLzH6n4zXuckrPkEUK5iMQrQyvj9Z6WCrm
+* https://www.youtube.com/playlist?list=PLzH6n4zXuckoAod3z31QEST1ZaizBuNHh
+* https://www.youtube.com/playlist?list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF
+* https://www.youtube.com/@JorgeVinoRodriguez
+* https://www.youtube.com/@BrendanGalea
+* https://www.youtube.com/@carltheperson
+* https://www.youtube.com/@JoshsHandle
+* https://www.youtube.com/@maxwellhunt3732
 
 ## People
 * [Patricio Gonzales Vivo](http://patriciogonzalezvivo.com/) - Main contributor for the magnificent learning site "The book of shaders"
