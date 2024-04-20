@@ -74,6 +74,27 @@ The following is a compilation of the best resources I have found in my way to l
 * Geometry for Programmers
 * 3D Math Primer for Graphics and Game Development
 * Essential Mathematics for Games and Interactive Applications
+* The Nature of Code
+* Coding Art: A Guide to Unlocking Your Creativity with the Processing Language and p5.js in Four Simple Steps
+* Code as Creative Medium: A Handbook for Computational Art and Design
+* Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing
+* Generative Design: Visualize, Program, and Create with Processing: Visualize, Program, and Create with Processing
+* Generative Design: Visualize, Program, and Create with JavaScript in p5.js
+* The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation
+* The Algorithmic Beauty of Plants
+* The Algorithmic Beauty of Sea Shells
+* The Algorithmic Beauty of Seaweeds, Sponges and Corals
+* Generative Art: A Practical Guide Using Processing,
+* Processing, second edition: A Programming Handbook for Visual Designers and Artists
+* O CÓDIGO TRANSCENDENTE
+* 幾何学パターンづくりのすべて ファッション、建築、デザインのためのリピートパターン制作ガイド
+* たのしいクリエイティブコーディング　Processingで学ぶコード×アート入門
+* Designing Math. 数学とデザインをむすぶプログラミング入門
+* 数学から創るジェネラティブアート - Processingで学ぶかたちのデザイン
+* アートで魅せる数学の世界
+* リアルタイムグラフィックスの数学 ― GLSLではじめるシェーダプログラミング
+* ゲーム制作者になるための3Dグラフィックス技術 改訂3版
+* Game Programming Patterns
 
 ## Tools
 * [RenderDoc](https://renderdoc.org/builds) - Stand-alone graphics debugger.
