@@ -61,6 +61,9 @@ The following is a compilation of the best resources I have found in my way to l
 * [WebGL Image Processing](https://maximmcnair.com/webgl-image-processing) - Covers a range of _Image Processing_ algorithms in WebGL such as Color Correction, Blend Modes, Thresholding, Dithering, Convolution and Film Grain.
 
 ## Books
+* OpenGL 4 Shading Language Cookbook - Third Edition: Build high-quality, real-time 3D graphics with OpenGL 4.6, GLSL 4.6 and C++17
+* GLSL Essentials
+3D Graphics Rendering Cookbook: A comprehensive guide to exploring rendering algorithms in modern OpenGL and Vulkan
 * Practical Shader Development: Vertex and Fragment Shaders for Game Developers
 * Graphics Shaders: Theory and Practice, Second Edition
 * Unreal Engine 5 Shaders and Effects Cookbook - Second Edition: Over 50 recipes to help you create materials and utilize advanced shading techniques
